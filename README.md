@@ -15,8 +15,8 @@ I'm in an internship as an Android Studio developer at Engage Media TV. This is 
 | **Others**              | ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)|
 
 ## 📠 Contact:
-* My linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/se%C3%A1n-costelloe-cacho-56b66a297/) 
+* My linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/se%C3%A1n-costelloe-cacho-881499297/) 
 
-* My mail: sean.costelloe.7e5@gmail.com
+* My mail: sean.7e5@gmail.com
 
 Don't hesitate to contact me if you need Catalan software!
