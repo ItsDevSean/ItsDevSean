@@ -3,7 +3,7 @@ Hi 🎷, I'm Seán. I transform your ideas into mobile apps :).
 
 ### Things that I'm currently doing.
 
-I'm just finsht my internship as an Android Studio developer at Engage Media TV, and now I sherching for job. Fel free to see my projects :). 
+I'm searching for a job as an **Android Native Developer**. In the meantime, I'm obtaining an **English certification**, and in February, I will start a **computer science degree** at the **UOC**. 
 
 # 💻 Tech Stack:
 
