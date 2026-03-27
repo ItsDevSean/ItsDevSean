@@ -3,7 +3,7 @@ Hi 🎷, I'm Seán. I transform your ideas into mobile apps :).
 
 ### Things that I'm currently doing.
 
-I'm searching a job as an **Android Native Developer**. In the meantime, I'm starting a **computer science degree** at the <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXo5aXlhNjRjYjMxNzF5cWE4Mzk2MXNvajFzcTA1anN2NXkwMGF6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FAusHvLOqj4AAiQZCL/giphy.gif" alt="UOC" width="80" /> **Universitat Oberta de Catalunya**. 
+I'm searching a job as an **Android Native Developer** or **Full stack developer**. In the meantime, I'm starting a **computer science degree** at the <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXo5aXlhNjRjYjMxNzF5cWE4Mzk2MXNvajFzcTA1anN2NXkwMGF6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FAusHvLOqj4AAiQZCL/giphy.gif" alt="UOC" width="80" /> **Universitat Oberta de Catalunya**. 
 
 # 💻 Tech Stack:
 
